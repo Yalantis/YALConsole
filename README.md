@@ -19,7 +19,7 @@ Integration
 -   Downolad YALConsole
 -   Add **YALConsole.framework** and **YALConsole.bundle** to the project
 -   Add **-all_load** flag to Other Compiler Flags in Build Settings
--   Import header: `#import "YALConsole.h"`
+-   Import header: `#import "YALConsole/YALConsole.h"`
  
 
 **Installation with CocoaPods:**
