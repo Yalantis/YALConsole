@@ -21,8 +21,6 @@ Integration
 -   Console requires FBKVOController that can be downloaded [here](https://github.com/facebook/KVOController).
 -   Add **-all_load** flag to Other Compiler Flags in Build Settings
 -   Import header: `#import "YALConsole/YALConsole.h"`
--   
- 
 
 **Installation with CocoaPods:**
 
