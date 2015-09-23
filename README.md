@@ -105,7 +105,7 @@ In order to avoid interference with gestures used in your application, you can s
 ```
 ## Contact
 
-Follow our blog at [yalantis.com](http://yalantis.com/blog/)
+Follow our blog at [yalantis.com](https://yalantis.com/blog/)
 
 ### Maintainers
 
